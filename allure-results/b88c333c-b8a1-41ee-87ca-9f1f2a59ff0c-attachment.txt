@@ -1,0 +1,11 @@
+{
+  bookingid: 4417,
+  booking: {
+    firstname: 'Mariela',
+    lastname: 'Huel',
+    totalprice: 51,
+    depositpaid: true,
+    bookingdates: { checkin: '2024-07-22', checkout: '2024-07-27' },
+    additionalneeds: 'super bowls'
+  }
+}

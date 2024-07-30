@@ -1,0 +1,5 @@
+ Split rule added successfully.
+ Classification is mapped
+User able to deselect split rule with message   Split rule deselected successfully
+User is getting confirmation message while deleteing split rule is  Are you sure you want to delete this rule? Deleting rule will not impact old studies created for country.
+User has successfullly delete split rule with message   Split rule deleted successfully
